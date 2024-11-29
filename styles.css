@@ -1,0 +1,30 @@
+#container{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+button{
+    font-size: 2rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: blue;
+    color:white;
+    font-weight: bold;
+    cursor: pointer;
+}
+input{
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+
+}
+#result{
+    margin: 25px;
+}
+#dice-img img{
+    width: 150px;
+    margin: 5px;
+}
